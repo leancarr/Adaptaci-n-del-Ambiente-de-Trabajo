@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\Ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\Ej1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\Ej1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Ej1\bin\Debug\net8.0\Ej1.exe
+C:\Users\USER\source\repos\Ej1\bin\Debug\net8.0\Ej1.deps.json
+C:\Users\USER\source\repos\Ej1\bin\Debug\net8.0\Ej1.runtimeconfig.json
+C:\Users\USER\source\repos\Ej1\bin\Debug\net8.0\Ej1.dll
+C:\Users\USER\source\repos\Ej1\bin\Debug\net8.0\Ej1.pdb
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\Ej1.dll
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\refint\Ej1.dll
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\Ej1.pdb
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\Ej1.genruntimeconfig.cache
+C:\Users\USER\source\repos\Ej1\obj\Debug\net8.0\ref\Ej1.dll
